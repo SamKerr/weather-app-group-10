@@ -1,3 +1,3 @@
 # weather-app-group-10
 
-This was my groups weather app which was coursework for the Interaction Design course.
+My groups Hi-Fi prototype for a weather app aimed at kids in the age range 9 to 11.
